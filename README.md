@@ -1,2 +1,2 @@
-# Full_stack_Restaurent_Website
+# Biryani_Mahal_Ranchi
 Biryani Mahal Restaurant Website Deployment.
